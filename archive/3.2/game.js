@@ -66,8 +66,6 @@ var fight = function(enemyName) {
     } else {
       window.alert(playerName + ' still has ' + playerHealth + ' health left.');
     }
-
-    
   }
 };
 
